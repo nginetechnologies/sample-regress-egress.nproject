@@ -17,5 +17,11 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "guid": "6c7aa97a-5dab-011a-f9db-af429cb6f42e"
+    "guid": "6c7aa97a-5dab-011a-f9db-af429cb6f42e",
+    "imported_assets": [
+        "1ff64262-2ad9-8e56-53f2-692cfc361c7b",
+        "3e7a38c2-6213-a7e6-d7d3-e0080ef9a1a2",
+        "4db8ee85-5cef-e5ae-2c4f-a087d569cdaa",
+        "bfcde6a7-ff71-bd2d-71c1-71020e3ac5b3"
+    ]
 }
